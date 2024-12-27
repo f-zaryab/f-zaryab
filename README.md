@@ -1,15 +1,33 @@
-### Hi there 👋
+### Hi there, nice to see you stop by! 👋
 
 <p>
-  My name is Zaryab Farooqui and I'm a software developer with 3+ year of experience. <br/>
-Primarily a frontend developer who is on the lookout of a perfect final JS framework, while also diving into the intricate world of LLMs.
+I'm a self-taught full-stack developer with 3+ years of experience, and honestly, I just love coding. When I’m at it, I like to think of myself as a technical artist, painting on the digital canvas with my code.
 
-I don't just create products; I focus on crafting experiences that truly resonate with users and deliver value in ways that connect with their needs.
+I’m not just about building products — I’m all about solving real-world problems and creating experiences that users actually find valuable.
 
-Whenever I can, I share my ideas and learing at [LazyCoder](https://www.lazycoder.tech/).
+Lately, I’ve been exploring the world of LLMs, trying to make web apps smarter and more intuitive.
+
+Oh, and whenever I get the chance, I share my thoughts and lessons learned over at [LazyCoder](https://www.lazycoder.tech/).
 
 </p>
 
+<p>
+   <b>You can find me on: </b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaryab-farooqui" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.coursera.org/learner/zaryab-farooqui-05" target="_blank">
+    <img alt="Coursera" src="https://img.shields.io/badge/coursera-0070FF.svg?&style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/zaryabfarooqui" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a> 
+  <a href="https://www.lazycoder.tech" target="_blank">
+    <img alt="LazyCoder" src="https://img.shields.io/badge/LazyCoder-B57EDC.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  </a>
 <hr />
 
 <!--
@@ -27,7 +45,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Commercial Projects
+# Commercial Projects
 
 - [HitArmour](https://www.hitarmour.com/)
 - [CodeBeCrafted](https://www.codebecrafted.com/)
@@ -39,57 +57,57 @@ Here are some ideas to get you started:
 Need to deploy it on vercel after revamp
 [![](https://img.shields.io/badge/-🧬_Joby_Dashboard-000)](<[https://github.com/adamalston/v2](https://github.com/f-zaryab/Joby01)>) -->
 
-### Frontend Projects
+## Personal Projects
 
 [![](https://img.shields.io/badge/Team_Management_App-fffff?logo=react&logoColor=white)](https://teammanagementsite01.web.app/login)
+
 [Github Link](https://github.com/f-zaryab/teamManagementApp)
 
 [![](https://img.shields.io/badge/Social_Connections_App-9966CC?logo=nextdotjs&logoColor=white)](https://socialconnections.vercel.app/)
+
 [Github](https://github.com/f-zaryab/WebsiteForOlderAdults01)
 
 [![](https://img.shields.io/badge/Food_Recipies-0070FF?logo=gatsby&logoColor=white)](https://recipyhere.netlify.app/)
+
 [Github](https://github.com/f-zaryab/Gatsby_Recipes)
+
+[![](https://img.shields.io/badge/Fortnite-8806CE?logo=html5&logoColor=white)](https://universityofdundee-computing.github.io/cw1-web-development-project-jzj-fortnite/index.html)
+
+[Github](https://github.com/UniversityOfDundee-Computing/cw1-web-development-project-jzj-fortnite)
+
+[![](https://img.shields.io/badge/Fortnite-0072BB?logo=html5&logoColor=white)](https://universityofdundee-computing.github.io/cw2-web-application-development-project-jbz/)
+
+[Github](https://github.com/UniversityOfDundee-Computing/cw2-web-application-development-project-jbz)
 
 <hr />
 
-## Languages
+### Languages I learnt
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,py,cs&theme=light)](https://skillicons.dev)
 
-## Tech Stacks I am fond of
+### My Deployment Options
+
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel,netlify&theme=light)](https://skillicons.dev)
+
+### Tech Stacks I am fond of
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,django,express,dotnet&theme=light)](https://skillicons.dev)
 
-## CSS Utilities I use
+### CSS Utilities I use
 
 [![My Skills](https://skillicons.dev/icons?i=css,tailwind,bootstrap,materialui,sass,styledcomponents&theme=light)](https://skillicons.dev)
 
-## Tools that comes in handy
+### Tools that comes in handy
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,graphql,mongodb,postgres,redux,sqlite,supabase,redis,threejs,md,docker,d3,github,gitlab&theme=light)](https://skillicons.dev)
 
-## Other tools I am good with
+### Other tools I am good with
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,ae,pr,unity,linux,aws&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ae,pr,unity,linux&perline=6)](https://skillicons.dev)
 
-## Currently gaining expertise in:
+### Currently gaining expertise in:
 
 [![My Skills](https://skillicons.dev/icons?i=azure,tensorflow,pytorch&perline=6)](https://skillicons.dev)
-
-<hr />
-
-<h3>Where to find me</h3>
-<p align="center">
-  <a href="https://twitter.com/zaryabfarooqui" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
-  <a href="https://www.linkedin.com/in/zaryab-farooqui" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://www.coursera.org/learner/zaryab-farooqui-05" target="_blank">
-    <img alt="Coursera" src="https://img.shields.io/badge/coursera-0070FF.svg?&style=for-the-badge&logo=coursera&logoColor=white" />
-  </a>
-</p>
 
 <!--
 <a href="https://github.com/f-zaryab" align="center">
