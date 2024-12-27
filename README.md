@@ -1,7 +1,13 @@
 ### Hi there 👋
+
 <p>
   My name is Zaryab Farooqui and I'm a software developer with 3+ year of experience. <br/>
-Primarily a frontend developer who is on the lookout of a perfect final JS framework :)
+Primarily a frontend developer who is on the lookout of a perfect final JS framework, while also diving into the intricate world of LLMs.
+
+I don't just create products; I focus on crafting experiences that truly resonate with users and deliver value in ways that connect with their needs.
+
+Whenever I can, I share my ideas and learing at [LazyCoder](https://www.lazycoder.tech/).
+
 </p>
 
 <hr />
@@ -21,35 +27,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Full Stack Projects
+## Commercial Projects
 
-[![](https://img.shields.io/badge/-🧬_Joby_Dashboard-000)]([https://github.com/adamalston/v2](https://github.com/f-zaryab/Joby01))
+- [HitArmour](https://www.hitarmour.com/)
+- [CodeBeCrafted](https://www.codebecrafted.com/)
+- [CoverTrip](https://covertrip.com/)
+
+<hr />
+
+<!-- ### Full Stack Projects
+Need to deploy it on vercel after revamp
+[![](https://img.shields.io/badge/-🧬_Joby_Dashboard-000)](<[https://github.com/adamalston/v2](https://github.com/f-zaryab/Joby01)>) -->
 
 ### Frontend Projects
-[![](https://img.shields.io/badge/Team_Management_App-fffff?logo=react&logoColor=white)](https://github.com/f-zaryab/teamManagementApp)
+
+[![](https://img.shields.io/badge/Team_Management_App-fffff?logo=react&logoColor=white)](https://teammanagementsite01.web.app/login)
+[Github Link](https://github.com/f-zaryab/teamManagementApp)
+
+[![](https://img.shields.io/badge/Social_Connections_App-9966CC?logo=nextdotjs&logoColor=white)](https://socialconnections.vercel.app/)
+[Github](https://github.com/f-zaryab/WebsiteForOlderAdults01)
+
+[![](https://img.shields.io/badge/Food_Recipies-0070FF?logo=gatsby&logoColor=white)](https://recipyhere.netlify.app/)
+[Github](https://github.com/f-zaryab/Gatsby_Recipes)
 
 <hr />
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,mysql,py&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,py,cs&theme=light)](https://skillicons.dev)
 
 ## Tech Stacks I am fond of
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,vue,django,express,ts,gatsby&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,django,express,dotnet&theme=light)](https://skillicons.dev)
 
 ## CSS Utilities I use
+
 [![My Skills](https://skillicons.dev/icons?i=css,tailwind,bootstrap,materialui,sass,styledcomponents&theme=light)](https://skillicons.dev)
 
-## Tools that helps me alot
-[![My Skills](https://skillicons.dev/icons?i=firebase,graphql,mongodb,postgres,redux,sqlite,supabase,redis,threejs,md,docker,d3,gcp,github,gitlab&theme=light)](https://skillicons.dev)
+## Tools that comes in handy
 
-## Tools I am obsessed with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,express,figma,firebase,gatsby,graphql,jquery,materialui,mongodb,mysql,nextjs,nodejs,postgres,react,redux,sass,sqlite,styledcomponents,supabase,tailwind,threejs,ts,vue,wordpress,py,docker,d3,postman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,graphql,mongodb,postgres,redux,sqlite,supabase,redis,threejs,md,docker,d3,github,gitlab&theme=light)](https://skillicons.dev)
 
 ## Other tools I am good with
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,ae,pr&perline=6)](https://skillicons.dev)
 
-## Currently learning
-[![My Skills](https://skillicons.dev/icons?i=remix,nestjs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ae,pr,unity,linux,aws&perline=6)](https://skillicons.dev)
+
+## Currently gaining expertise in:
+
+[![My Skills](https://skillicons.dev/icons?i=azure,tensorflow,pytorch&perline=6)](https://skillicons.dev)
 
 <hr />
 
@@ -61,9 +86,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/zaryab-farooqui" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
+  <a href="https://www.coursera.org/learner/zaryab-farooqui-05" target="_blank">
+    <img alt="Coursera" src="https://img.shields.io/badge/coursera-0070FF.svg?&style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
 </p>
-
-
 
 <!--
 <a href="https://github.com/f-zaryab" align="center">
