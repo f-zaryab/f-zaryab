@@ -47,8 +47,10 @@ Here are some ideas to get you started:
 
 # Commercial Projects
 
-- [HitArmour](https://www.hitarmour.com/)
+- [Foxtons](https://www.foxtons.co.uk/)
 - [CodeBeCrafted](https://www.codebecrafted.com/)
+- [WhiteGloves](https://www.whitegloves.cc/)
+- [HitArmour](https://www.hitarmour.com/)
 - [CoverTrip](https://covertrip.com/)
 
 <hr />
