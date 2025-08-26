@@ -28,6 +28,9 @@ Oh, and whenever I get the chance, I share my thoughts and lessons learned over 
   <a href="https://www.lazycoder.tech" target="_blank">
     <img alt="LazyCoder" src="https://img.shields.io/badge/LazyCoder-B57EDC.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
+  <a href="https://www.zaryabit.com" target="_blank">
+     <img alt="portfolio" src="https://img.shields.io/badge/portfolio-219ebc.svg?&style=for-the-badge&logo=foodpanda&logoColor=white" />
+  </a>
 <hr />
 
 <!--
@@ -50,6 +53,7 @@ Here are some ideas to get you started:
 - [Foxtons](https://www.foxtons.co.uk/)
 - [CodeBeCrafted](https://www.codebecrafted.com/)
 - [WhiteGloves](https://www.whitegloves.cc/)
+- [EyeSiteCentre](https://www.npmjs.com/package/react_cli_elm_zf5)
 - [HitArmour](https://www.hitarmour.com/)
 - [CoverTrip](https://covertrip.com/)
 
