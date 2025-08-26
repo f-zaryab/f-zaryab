@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - [Foxtons](https://www.foxtons.co.uk/)
 - [CodeBeCrafted](https://www.codebecrafted.com/)
 - [WhiteGloves](https://www.whitegloves.cc/)
-- [EyeSiteCentre](https://www.npmjs.com/package/react_cli_elm_zf5)
+- [EyeSiteCentre](https://www.eyesitecentre.com/)
 - [HitArmour](https://www.hitarmour.com/)
 - [CoverTrip](https://covertrip.com/)
 
