@@ -78,7 +78,11 @@ Need to deploy it on vercel after revamp
 
 <hr />
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=f-zaryab&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
+
+</div>
 
 <!-- ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=f-zaryab&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f-zaryab&theme=dracula)  -->
 
