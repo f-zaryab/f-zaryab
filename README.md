@@ -2,10 +2,7 @@
 
 ### Full Stack Engineer
 
-#### Building products from idea to production.
-
-<!-- Building software with users, products, and scale in mind. -->
-<p>&nbsp;</p>
+#### <i>Building products from idea to production.</i>
 
 <p>
 Currently building AI-powered products with FastAPI, Ollama, RAG, and local LLMs.
