@@ -1,8 +1,8 @@
 # Hi, Zaryab here 👋
 
-### Full Stack Engineer
+## Full Stack Engineer
 
-#### Building products from idea to production.
+### Building products from idea to production.
 
 <!-- Building software with users, products, and scale in mind. -->
 <p>
