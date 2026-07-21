@@ -1,16 +1,15 @@
 # Hi, Zaryab here 👋
 
-#### Full-stack engineer. Systems thinker. Product-driven.
+### Full Stack Engineer
 
+##### Building products from idea to production.
+
+<!-- Building software with users, products, and scale in mind. -->
 <p>
 
-I build scalable platforms using Next.js, Node.js, and AWS.
+Currently building AI-powered products with FastAPI, Ollama, RAG, and local LLMs.
 
-**I design systems before I write code.**
-
-Currently integrating AI-driven features into real-world products.
-
-I often think aloud and jot down my thoughts at [LazyCoder](https://www.lazycoder.tech/).
+I share thoughts on software engineering, architecture, and AI at [LazyCoder](https://www.lazycoder.tech/).
 
 </p>
 
@@ -81,7 +80,9 @@ Need to deploy it on vercel after revamp
 <div align="center">
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=f-zaryab&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats) -->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=f-zaryab&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 <!-- ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=f-zaryab&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f-zaryab&theme=dracula)  -->
