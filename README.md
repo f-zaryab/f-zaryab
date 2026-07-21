@@ -49,31 +49,39 @@ I share thoughts on software engineering, architecture, and AI at [LazyCoder](ht
 Need to deploy it on vercel after revamp
 [![](https://img.shields.io/badge/-🧬_Joby_Dashboard-000)](<[https://github.com/adamalston/v2](https://github.com/f-zaryab/Joby01)>) -->
 
-### Primary Stack
+### Core Stack
 
-###### My go-to stack for building scalable, production-grade platforms.
+###### The technologies I use most to build production software.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,express,nestjs,mongodb,postgres,jest,aws&theme=light&perline=6)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,express,nestjs,mongodb,postgres,jest,aws&theme=light&perline=6)](https://skillicons.dev) -->
 
-### Other
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=typescript,nextjs,reactjs,tailwindcss,gsap,zustand,redux,expressjs,nestjs,mongodb,postgresql,jest,amazonewebservices-dark&theme=light&perline=7)](https://i.icoziv.workers.dev)
 
-###### Tools I reach for when architecture requires it.
+### Additional Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,fastapi,django,dotnet,redis,materialui,docker,threejs,d3,gcp,azure,terraform,kafka,rabbitmq,kubernetes&theme=light&perline=8)](https://skillicons.dev)
+###### Technologies I use when the product or architecture calls for them.
 
-### AI Stack
+<!-- [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,fastapi,django,dotnet,redis,materialui,docker,threejs,d3,gcp,azure,terraform,kafka,rabbitmq,kubernetes&theme=light&perline=8)](https://skillicons.dev) -->
 
-###### Integrating LLMs, RAG architectures, and ML into real-world product workflows.
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=tanstack,vuejs,nuxtjs,fastapi,django,dotnet,azure,gcp,d3,threejs,prisma,strapi,docker,kafka,terraform,kubernetes,rabbitmq,redis-light&t=light&perline=9)](https://i.icoziv.workers.dev)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,cursor,chatgpt&titles=true)
+### AI/ML Stack
 
-### Creative Toolkit
+###### Building AI-powered products with LLMs, RAG, FastAPI, Ollama, and modern AI tooling.
 
-###### Prototyping, designing, and experimenting before writing production code.
+<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,cursor,chatgpt&titles=true) -->
 
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ae,pr,unity,linux&perline=8)](https://skillicons.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=pytorch,tensorflow,jupyter-light,langchain-light,ollama,cursor&perline=8)](https://i.icoziv.workers.dev)
 
-<hr />
+### Toolkit
+
+###### Design, prototyping, and creative tooling.
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=figma,blender,unity,linux&perline=8)](https://skillicons.dev) -->
+
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=figma,blender,unity,linux,git&t=light&perline=8)](https://i.icoziv.workers.dev)
+
+<hr>
 
 <div align="center">
 
